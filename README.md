@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forker-25&layout=compact&v=2)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=forker-25&theme=github_dark)
